@@ -112,6 +112,7 @@ venv.bak/
 
 #API
 api_keys.py
+api_keys.cpython-38.pyc
 # Spyder project settings
 .spyderproject
 .spyproject
